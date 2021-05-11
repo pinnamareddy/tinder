@@ -1,0 +1,27 @@
+.bottom{
+  position:fixed;
+    bottom:10vh;
+    display: flex;
+    width:100%;
+    justify-content: space-evenly;
+
+}
+.s{
+    color: aquamarine;
+}
+.r{
+    color: rgb(168, 206, 32);
+}
+.a{
+    color: rgb(223, 95, 10);
+}
+.j{
+    color: rgb(112, 72, 207);
+}
+.e{
+    color: rgb(204, 83, 158);
+}
+.sw{
+    background-color: azure;
+    box-shadow: 0px 10px 53px 0px black !important;
+}
